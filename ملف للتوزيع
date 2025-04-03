@@ -1,0 +1,18 @@
+لا يوجد نتائج
+</div>
+                           <div id="results-inquiery" style="display:none;">
+ <div class="results-inquiery row">
+                                <div class="col-md-6"><span>الاسم:</span>  ابو علي ماجد علي  نعمان     </div>
+                                
+              <div class="col-md-6"><span>تاريخ إصدار تقرير الإجازة:</span> 02-03-2025</div>
+                           <div class="col-md-6"><span>تبدأ من:</span> 02-03-2025</div>
+                          <div class="col-md-6"><span>وحتى:</span> 02-03-2025</div>
+                                <div class="col-md-6"><span>المدة بالأيام:</span>1</div>
+                                <div class="col-md-6"><span>اسم الطبيب:</span> ماجد علي نعمان  </div>
+                                <div class="col-md-6"><span>المسمى الوظيفي:</span> طبيب عام  </div>
+                            
+
+
+     
+
+        if (serviceCode === "PSL25028887912" && idNumber === "11312908") {
